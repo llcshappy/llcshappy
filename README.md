@@ -10,7 +10,7 @@
 [![PyTools](https://github-readme-stats.zohan.tech/api/pin/?username=llcshappy&repo=PyTools&theme=dark)](https://github.com/llcshappy/PyTools)
 
 ### 🏆 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llcshappy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llcshappy&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🎯 Activity Graph
 [![Lapura's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=llcshappy&theme=react-dark)](https://github-readme-activity-graph.vercel.app)
