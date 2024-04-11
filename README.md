@@ -10,12 +10,10 @@
 [![PyTools](https://github-readme-stats.zohan.tech/api/pin/?username=llcshappy&repo=PyTools&theme=dark)](https://github.com/llcshappy/PyTools)
 
 ### 🏆 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llcshappy&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llcshappy&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llcshappy&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🎯 Activity Graph
-[![Lapura's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=llcshappy&theme=react-dark)](https://github-readme-activity-graph.vercel.app)
-
-### ✍ Coding Things
+### 📍 Coding Things
 <p>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
@@ -33,8 +31,6 @@
    <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black">
    <img alt="macos" src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white">
    <img alt="warp" src="https://img.shields.io/badge/Warp-01A4FF.svg?style=for-the-badge&logo=Warp&logoColor=white" />
-
-   
   
 </p>
 
@@ -42,3 +38,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](llcshappy@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=oh6xqTsAAAAJ&hl=zh-CN)
 [![Linkin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E9%B2%81%E9%98%B3-%E7%8E%8B-9400671a8/)
+
+### 🎯 Activity Graph
+[![Lapura's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=llcshappy&theme=react-dark)](https://github-readme-activity-graph.vercel.app)
